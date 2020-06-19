@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase push notification kotlin</string>
+
+    <string name="default_notification_channel_id">notification_id_101</string>
+    <string name="dummy_paragraph">Old Mother Goose lived in a cottage with her son Jack. Jack was a very good lad, and although he was not handsome, he was good-tempered and industrious, and this made him better-looking than half the other boys. Old Mother Goose carried a long stick, she wore a high-crowned hat, and high-heeled shoes, and her kerchief was as white as snow.</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811064283910",
+    "firebase_url": "https://pushnotification-kotlin-8e7ec.firebaseio.com",
+    "project_id": "pushnotification-kotlin-8e7ec",
+    "storage_bucket": "pushnotification-kotlin-8e7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811064283910:android:9b5583f18ff67a41d08487",
+        "android_client_info": {
+          "package_name": "com.anwar.firebasepushnotificationkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811064283910-3amghi5dshaj8bceadnciuridh7hi3f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeVboPRLom6vmWWAXG7oGpRzx17au4HVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811064283910-3amghi5dshaj8bceadnciuridh7hi3f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
